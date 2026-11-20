@@ -10,7 +10,7 @@ const person: Person = {
   firstName: "Chris",
   lastName: "K",
   name: "Chris K",
-  role: "Web Developer",
+  role: "Software Developer",
   avatar: withBasePath(avatarImagePath),
   email: "chrisk.dev@outlook.com",
   location: "Asia/Beirut",
@@ -49,7 +49,7 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        <strong>Full-Stack Web Developer</strong> specializing in <strong>Laravel</strong>,{" "}
+        <strong>Software Developer</strong> specializing in <strong>Laravel</strong>,{" "}
         <strong>React</strong>, and <strong>MySQL</strong>, with professional experience in a
         software development company building scalable web applications.
       </>
